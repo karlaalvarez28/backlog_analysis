@@ -1,0 +1,16 @@
+Ticket_ID,Status,Priority,Category,Creation_Date
+INC-001,Open,High,SharePoint,2026-04-01
+INC-002,In Progress,Medium,Hardware,2026-04-02
+INC-003,Closed,Low,Software,2026-03-28
+INC-004,Open,Critical,ServiceNow,2026-04-04
+INC-005,Open,Medium,Access,2026-04-03
+INC-006,Resolved,High,Jira,2026-03-30
+INC-007,In Progress,Low,Hardware,2026-04-02
+INC-008,Open,Medium,SharePoint,2026-04-05
+INC-009,Closed,High,Network,2026-03-25
+INC-010,Open,Critical,ServiceNow,2026-04-05
+INC-011,In Progress,Medium,Software,2026-04-01
+INC-012,Open,Low,Access,2026-04-04
+INC-013,Resolved,Medium,Jira,2026-04-03
+INC-014,Open,High,Network,2026-04-02
+INC-015,Open,Low,Hardware,2026-04-05
